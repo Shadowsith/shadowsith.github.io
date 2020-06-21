@@ -8,3 +8,5 @@ The character is inspired by the Sith as group of dark Jedis from Star Wars.
 * strong
 * insidious
 * skillfully
+
+> I'm the Sith that hides in the shadows of the dark side.
