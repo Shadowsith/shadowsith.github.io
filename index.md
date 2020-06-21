@@ -10,3 +10,5 @@ The character is inspired by the Sith as group of dark Jedis from Star Wars.
 * skillfully
 
 > I'm the Sith that hides in the shadows of the dark side.
+
+<img src="https://cdna.artstation.com/p/assets/images/images/012/562/698/large/mauro-misiewicz-mauromisiewicz-revan-render-02.jpg">
